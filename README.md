@@ -2,7 +2,7 @@
 
 https://www.linkedin.com/learning/data-analytics-for-business-professionals-14936642?u=0
 
-Corse by John Johnson - Completed Feb 2023
+Course by John Johnson - Completed Feb 2023
 
 Covered skills: Data Analytics
 
